@@ -78,7 +78,8 @@ body {
 }
 
 /* Texto de presentación */
-.presentacion p {
+.presentacion p,
+.direccion p{
     text-align: center;
     font-size: 2.5vw;
     margin: 20px;
@@ -111,7 +112,7 @@ body {
         height: auto;
     }
 
-    .presentacion p {
+    .presentacion p,{
         font-size: 5vw;
     }
 }
