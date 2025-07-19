@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #800020;
+    padding: 10px;
+    color: white;
+    position: relative;
+}
+
+.menu-toggle {
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+}
+
+.nav-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    flex-direction: column;
+    background-color: #800020;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+}
+
+.nav-list li {
+    border-top: 1px solid #fff;
+}
+
+.nav-list li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.nav-list li a:hover {
+    background-color: #a02c3c;
+}
