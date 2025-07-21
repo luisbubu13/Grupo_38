@@ -1,6 +1,36 @@
-body{
+#manada{
+    background-color: rgb(207, 207, 7);
+    text-align: center;
+}
+
+#tropa{
+    background-color: rgb(1, 86, 1);
+    text-align: center;
+}
+
+#comunidad{
     background-color: blue;
     text-align: center;
+    color: white;
+}
+
+#comunidad #nombre{
+    color: black;
+}
+
+#clanF{
+    background-color: pink;
+    text-align: center;
+}
+
+#clanM{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+#clanM #nombre{
+    color: black;
 }
 
 .galeria {
@@ -16,7 +46,6 @@ body{
     width: 120px;
     max-width: 25vw;
     border-radius: 50%;
-    border: 3px solid;
 }
 
 #nombre {
@@ -58,7 +87,7 @@ body{
 #edades{
     font-size: 4vw;
     text-align: center;
-    padding: 0vw 5.2vw 0vw 5.2vw;
+    padding: 0vw 2.5vw 0vw 2.5vw;
 }
 
 @media (max-width: 768px) {
@@ -84,6 +113,6 @@ body{
     #edades{
         font-size: 6vw;
         text-align: center;
-        padding: 0vw 5vw 0vw 5vw;
+        padding: 0vw 3vw 0vw 3vw;
     }
 }

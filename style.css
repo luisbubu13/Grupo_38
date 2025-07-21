@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    background-color: rgb(255, 174, 0);
+    background: linear-gradient(to right, #800020, rgb(255,174,0)); /*rgb(255,174,0) */
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -20,7 +20,6 @@ body {
     width: 120px;
     max-width: 25vw;
     border-radius: 50%;
-    border: 3px solid;
 }
 
 .seccion,
@@ -83,6 +82,7 @@ body {
     text-align: center;
     font-size: 2.5vw;
     margin: 20px;
+    color: white
 }
 
 .direccion a{
@@ -132,10 +132,11 @@ body {
     font-size: 4vw;
     border: 6px solid #800020;
     padding: 30px 10px;
-    background-color: rgb(223, 223, 223);
+    /* background-color: rgb(223, 223, 223); */
     border-radius: 100px;
     margin: 4vw auto;
-    max-width: 90%;
+    max-width: 50%;
+    color: rgba(255, 255, 255, 0.735);
 }
 
 /* Responsividad */

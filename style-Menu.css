@@ -2,7 +2,6 @@
     background-color: #800020;
     padding: 10px;
     color: white;
-    position: relative;
 }
 
 .menu-toggle {
@@ -18,10 +17,11 @@
     display: none;
     flex-direction: column;
     background-color: #800020;
-    position: absolute;
-    top: 50px;
-    left: 0;
     width: 100%;
+}
+
+.nav-list.show {
+    display: flex;
 }
 
 .nav-list li {
