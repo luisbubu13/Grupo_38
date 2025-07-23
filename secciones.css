@@ -1,5 +1,5 @@
 #manada{
-    background-color: rgb(207, 207, 7);
+    background-color: rgb(255, 255, 0);
     text-align: center;
 }
 
@@ -14,10 +14,6 @@
     color: white;
 }
 
-#comunidad #nombre{
-    color: black;
-}
-
 #clanF{
     background-color: pink;
     text-align: center;
@@ -29,7 +25,8 @@
     color: white;
 }
 
-#clanM #nombre{
+#clanM #nombre,
+#comunidad #nombre{
     color: black;
 }
 

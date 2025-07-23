@@ -117,7 +117,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    gap: 15px; 
+    gap: 15px;
     flex-wrap: wrap;
     margin: 0px 20px 100px 20px;
 }
@@ -147,8 +147,8 @@ body {
 
     .galeria {
         flex-direction: row;
-        gap: 10px;     
-    } 
+        gap: 10px;
+    }
 
     .secciones {
         flex-direction: column;
