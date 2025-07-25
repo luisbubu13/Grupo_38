@@ -19,6 +19,11 @@ footer p{
     color: black;
 }
 
+#tropa footer p {
+    color: white;
+}
+
+
 footer a{
     text-decoration: none;
     color: black;
