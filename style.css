@@ -1,11 +1,3 @@
-/* Estilos generales */
-/* @font-face {
-    font-family: 'Viking-Normal';
-    src: url('fonts/Viking-Normal.woff2') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-} */
-
 body {
     background: linear-gradient(to right, #800020, rgb(255,174,0));
     margin: 0;

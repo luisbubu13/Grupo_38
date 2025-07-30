@@ -4,7 +4,7 @@ html, body {
     overflow-x: hidden; /* Evita el scroll horizontal */
 }
 
-#manada{
+body#manada{
     background-color: rgba(255, 224, 87, 0.799);
     text-align: center;
 }
