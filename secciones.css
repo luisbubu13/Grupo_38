@@ -92,7 +92,7 @@ body#manada{
 #edades{
     font-size: 4vw;
     text-align: center;
-    padding: 0vw 2.5vw 0vw 2.5vw;
+    padding: 0vw 2.5vw;
 }
 
 @media (max-width: 768px) {
